@@ -1,2 +1,4 @@
-*.deepseek.com
-*.portal101.cn
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseek.cn
+DOMAIN-SUFFIX,deepseek.ai
+DOMAIN-SUFFIX,portal101.cn
