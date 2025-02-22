@@ -1,4 +1,16 @@
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,deepseek.cn
-DOMAIN-SUFFIX,deepseek.ai
-DOMAIN-SUFFIX,portal101.cn
+# Apple Podcasts
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN,entitlements-edge.itunes.apple.com
+DOMAIN,setup.icloud.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,amp-api.podcast.apple.com
+DOMAIN,podcasts.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,podcast.apple.com
+DOMAIN,past.im
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,buy.itunes.apple.com
