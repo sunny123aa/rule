@@ -1,18 +1,4 @@
-DOMAIN-SUFFIX,fpinit.itunes.apple.com
-DOMAIN-SUFFIX,entitlements-edge.itunes.apple.com
-DOMAIN-SUFFIX,setup.icloud.com
-DOMAIN-SUFFIX,play.itunes.apple.com
-DOMAIN-SUFFIX,bag.itunes.apple.com
-DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
-DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN-SUFFIX,lookup-api.apple.com
-DOMAIN-SUFFIX,xp.apple.com
-DOMAIN-SUFFIX,podcast.apple.com
-DOMAIN-SUFFIX,past.im
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,buy.itunes.apple.com
-# Apple Podcasts 专用
-DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN-SUFFIX,applehosted.podcasts.apple.com
-DOMAIN-KEYWORD,podcasts.apple.com
+- DOMAIN,amp-api.podcasts.apple.com
+- DOMAIN,bookkeeper.itunes.apple.com
+- DOMAIN,nyt.simplecastaudio.com
+- DOMAIN-SUFFIX,mzstatic.com
