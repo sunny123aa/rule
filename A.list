@@ -4,16 +4,15 @@ DOMAIN-SUFFIX,setup.icloud.com
 DOMAIN-SUFFIX,play.itunes.apple.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
-DOMAIN-SUFFIX,amp-api.podcast.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,lookup-api.apple.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,podcast.apple.com
 DOMAIN-SUFFIX,past.im
-DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,buy.itunes.apple.com
-DOMAIN-SUFFIX,player.hboav.com
-DOMAIN-SUFFIX,cp1.hboav.com
-DOMAIN-SUFFIX,cp2.hboav.com
-DOMAIN-SUFFIX,cp3.hboav.com
+# Apple Podcasts 专用
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,applehosted.podcasts.apple.com
+DOMAIN-KEYWORD,podcasts.apple.com
