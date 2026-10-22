@@ -1,4 +1,7 @@
-- DOMAIN,amp-api.podcasts.apple.com
-- DOMAIN,bookkeeper.itunes.apple.com
-- DOMAIN,nyt.simplecastaudio.com
-- DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,entitlements-edge.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,npr.simplecastaudio.com
+DOMAIN,nyt.simplecastaudio.com
